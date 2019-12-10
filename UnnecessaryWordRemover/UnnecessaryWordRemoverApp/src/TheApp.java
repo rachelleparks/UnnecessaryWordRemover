@@ -21,7 +21,7 @@ public class TheApp extends Application {
 		
 		// The data structure to store all words in the document
 		List<String> allWords = new ArrayList<String>();
-		List<String> allWords2 = new ArrayList<String>();
+		
 		
     	// create the user interface
     	primaryStage.setTitle("Unnecessary Word Remover");
